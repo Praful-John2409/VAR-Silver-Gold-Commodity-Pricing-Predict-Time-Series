@@ -11,7 +11,6 @@ This repository contains the Colab notebook and datasets used to predict commodi
 - [How to Run the Notebook](#how-to-run-the-notebook)
 - [Dependencies](#dependencies)
 - [Results and Insights](#results-and-insights)
-- [License](#license)
 
 ---
 
